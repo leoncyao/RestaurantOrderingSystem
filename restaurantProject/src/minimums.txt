@@ -1,0 +1,20 @@
+patty | 6
+cucumber | 5
+onion | 10
+potato | 10
+vegetable oil | 10
+bun | 10
+tomato | 10
+lettuce | 10
+ketchup | 10
+raw steak | 10
+chicken | 10
+salt | 10
+ground beef | 10
+cheese | 10
+noodles | 10
+soda | 2
+steak sauce | 10
+bread | 10
+flour | 10
+dough | 10

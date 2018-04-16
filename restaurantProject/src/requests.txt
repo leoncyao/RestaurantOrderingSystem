@@ -1,0 +1,6 @@
+raw steak x 20
+bread x 20
+tomato x 20
+flour x 20
+dough x 20
+soda x 20

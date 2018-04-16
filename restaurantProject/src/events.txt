@@ -1,0 +1,14 @@
+server1 | takeOrder |  | 4 ; Burger x 2 , Fries x 1 -salt, Fries x 1
+cook1 | cookConfirmOrder | 1 |
+server2 | takeOrder |  | 2 ; Spaghetti x 1, Soda x 1
+cook1 | cookFinishedOrder | 1 |
+cook3 | cookConfirmOrder | 2 |
+server1 | tableRejectedOrder | 1 | Burger looks ugly
+server3 | takeOrder |  | 1 ; Steak x 2 , Salad x 1 +tomato
+cook3 | cookFinishedOrder | 2 |
+cook2 | cookConfirmOrder | 3 |
+server2 | tableReceivedOrder | 2
+cook2 | cookFinishedOrder | 3
+server2 | tableRequestedBill | 2
+server3 | tableReceivedOrder | 3
+server3 | tableRequestedBill | 3
